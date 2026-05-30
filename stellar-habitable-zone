@@ -1,5 +1,8 @@
 # Stellar Habitable Zone Evolution
 
+Course: AST 321 - Stellar Astrophysics
+Institution: Arizona State University
+
 This project models how the habitable zone around a star changes as stellar luminosity evolves over time. Using stellar evolution track data, the code estimates inner and outer habitable zone boundaries and visualizes how those regions shift for stars of different masses.
 
 The project was developed as part of coursework in Stellar Astrophysics at Arizona State University and demonstrates scientific computing, astrophysical modeling, data analysis, and visualization using Python.
