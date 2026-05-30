@@ -35,6 +35,14 @@ of stars with different masses.
 
 ---
 
+## Example Output
+
+### Combined Habitable Zone Evolution
+
+![Combined Habitable Zone Evolution](figures/hz_evolution.png)
+
+---
+
 ## Skills Demonstrated
 
 - Python Programming
