@@ -13,36 +13,6 @@ The project was developed as part of coursework in Stellar Astrophysics at Arizo
 **Language:** Python  
 **Libraries:** NumPy, Pandas, Matplotlib
 
-### Key Outputs
-
-- Habitable zone evolution for stars from 0.5–1.2 solar masses
-- Combined habitable zone comparison plots
-- Stellar lifetime estimates
-- HR diagrams for stellar evolution tracks
-
-## Key Features
-
-- Reads stellar evolution track data
-- Calculates habitable zone boundaries
-- Models habitable zone evolution over billions of years
-- Compares stars from 0.5–1.2 solar masses
-- Estimates stellar lifetimes
-- Produces publication-quality visualizations
-
----
-
-## Scientific Background
-
-The habitable zone (HZ) is the region around a star
-where liquid water may exist on the surface of a planet.
-
-As stars evolve, their luminosity changes, causing
-the habitable zone to migrate over time.
-
-This project uses stellar evolution data to quantify
-those changes and compare the habitability potential
-of stars with different masses.
-
 ---
 
 ## Example Output
@@ -75,6 +45,52 @@ Key observations:
 - Lower-mass stars maintain stable habitable zones for significantly longer periods.
 - Habitable zone distance scales with stellar luminosity and shifts throughout stellar evolution.
 
+### Key Outputs
+
+- Habitable zone evolution for stars from 0.5–1.2 solar masses
+- Combined habitable zone comparison plots
+- Stellar lifetime estimates
+- HR diagrams for stellar evolution tracks
+
+## Key Features
+
+- Reads stellar evolution track data
+- Calculates habitable zone boundaries
+- Models habitable zone evolution over billions of years
+- Compares stars from 0.5–1.2 solar masses
+- Estimates stellar lifetimes
+- Produces publication-quality visualizations
+
+---
+
+## Scientific Background
+
+The habitable zone (HZ) is the region around a star
+where liquid water may exist on the surface of a planet.
+
+As stars evolve, their luminosity changes, causing
+the habitable zone to migrate over time.
+
+This project uses stellar evolution data to quantify
+those changes and compare the habitability potential
+of stars with different masses.
+
+---
+
+## Physical Model
+
+The habitable zone distance is estimated using:
+
+d = sqrt(L / S_eff)
+
+where:
+
+- d = orbital distance (AU)
+- L = stellar luminosity (solar units)
+- S_eff = effective stellar flux limit
+
+As a star evolves and its luminosity changes, the habitable zone moves accordingly.
+
 ---
 
 ## How to Run
@@ -100,22 +116,6 @@ python stellar_habitable_zone.py
 - Numerical Methods
 - Technical Documentation
 - Research Computing
-
----
-
-## Physical Model
-
-The habitable zone distance is estimated using:
-
-d = sqrt(L / S_eff)
-
-where:
-
-- d = orbital distance (AU)
-- L = stellar luminosity (solar units)
-- S_eff = effective stellar flux limit
-
-As a star evolves and its luminosity changes, the habitable zone moves accordingly.
 
 ---
 
