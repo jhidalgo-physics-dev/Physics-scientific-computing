@@ -17,7 +17,7 @@ The project was developed as part of coursework in Stellar Astrophysics at Arizo
 
 ## Example Output
 
-### Combined Habitable Zone Evolution
+### Combined HR Diagram for Mass-Varying Stellar Models
 
 ![Combined Habitable Zone Evolution](figures/hz_evolution.png)
 
