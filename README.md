@@ -4,6 +4,12 @@ This project models how the habitable zone around a star changes as stellar lumi
 
 The project was developed as part of coursework in Stellar Astrophysics at Arizona State University and demonstrates scientific computing, astrophysical modeling, data analysis, and visualization using Python.
 
+## Why This Project Matters
+
+As stars evolve, their luminosity changes significantly over time. These luminosity changes alter the location of the habitable zone, potentially affecting the long-term habitability of orbiting planets.
+
+This project quantifies those changes using stellar evolution models and visualizes how habitable zones evolve for stars of different masses.
+
 ---
 
 ## Project Snapshot
