@@ -54,6 +54,7 @@ cd Physics-scientific-computing
 pip install -r requirements.txt
 
 python stellar_habitable_zone.py
+```
 
 ## Skills Demonstrated
 
