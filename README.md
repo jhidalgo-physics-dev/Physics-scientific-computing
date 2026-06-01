@@ -51,9 +51,23 @@ of stars with different masses.
 
 ![Combined Habitable Zone Evolution](figures/hz_evolution.png)
 
+This figure shows the evolution of habitable zone boundaries for stellar models ranging from 0.5 to 1.2 solar masses. Dashed lines represent inner habitable zone boundaries, while solid lines represent outer boundaries.
+
+### Combined Habitable Zone Evolution
+
+![Combined Habitable Zone Evolution](figures/hz_evolution.png)
+
 ## Results
 
 The analysis demonstrates how habitable zone boundaries evolve as stellar luminosity changes over time.
+
+## Additional Analysis
+
+### Stellar Lifetime vs Stellar Mass
+
+![Stellar Lifetime](figures/stellar_lifetime_vs_mass.png)
+
+This analysis illustrates the relationship between stellar mass and stellar lifetime. Higher-mass stars evolve more rapidly and therefore have significantly shorter lifetimes than lower-mass stars.
 
 Key observations:
 
