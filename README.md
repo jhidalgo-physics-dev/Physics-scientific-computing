@@ -43,6 +43,18 @@ of stars with different masses.
 
 ---
 
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jhidalgo-physics-dev/Physics-scientific-computing.git
+cd Physics-scientific-computing
+
+pip install -r requirements.txt
+
+python stellar_habitable_zone.py
+
 ## Skills Demonstrated
 
 - Python Programming
