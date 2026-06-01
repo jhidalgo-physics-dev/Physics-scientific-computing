@@ -1,14 +1,24 @@
 # Stellar Habitable Zone Evolution
 
-Course: AST 321 - Stellar & Planetary Astrophysics
-
-Institution: Arizona State University
-
 This project models how the habitable zone around a star changes as stellar luminosity evolves over time. Using stellar evolution track data, the code estimates inner and outer habitable zone boundaries and visualizes how those regions shift for stars of different masses.
 
 The project was developed as part of coursework in Stellar Astrophysics at Arizona State University and demonstrates scientific computing, astrophysical modeling, data analysis, and visualization using Python.
 
 ---
+
+## Project Snapshot
+
+**Course:** AST 321 – Stellar & Planetary Astrophysics  
+**Institution:** Arizona State University  
+**Language:** Python  
+**Libraries:** NumPy, Pandas, Matplotlib
+
+### Key Outputs
+
+- Habitable zone evolution for stars from 0.5–1.2 solar masses
+- Combined habitable zone comparison plots
+- Stellar lifetime estimates
+- HR diagrams for stellar evolution tracks
 
 ## Key Features
 
@@ -40,6 +50,16 @@ of stars with different masses.
 ### Combined Habitable Zone Evolution
 
 ![Combined Habitable Zone Evolution](figures/hz_evolution.png)
+
+## Results
+
+The analysis demonstrates how habitable zone boundaries evolve as stellar luminosity changes over time.
+
+Key observations:
+
+- Higher-mass stars exhibit wider habitable zones but evolve more rapidly.
+- Lower-mass stars maintain stable habitable zones for significantly longer periods.
+- Habitable zone distance scales with stellar luminosity and shifts throughout stellar evolution.
 
 ---
 
