@@ -125,6 +125,22 @@ python stellar_habitable_zone.py
 
 ---
 
+## Data Source and References
+
+This project utilizes stellar evolution track data distributed through coursework in AST 321: Stellar Astrophysics at Arizona State University.
+
+The underlying stellar evolution models are based on:
+
+Young, P. A., Mamajek, E. E., Arnett, D., & Liebert, J. (2001). *Observational tests and predictive stellar evolution*. The Astrophysical Journal, 556(1), 230–250. https://doi.org/10.1086/321559
+
+The habitable zone calculations, data analysis, visualizations, and Python implementation contained in this repository were developed by the author.
+
+## Acknowledgments
+
+Special thanks to Professor Patrick Young (Arizona State University) for providing the stellar evolution datasets used in AST 321 coursework and for introducing the scientific concepts that motivated this project.
+
+---
+
 ## Tools Used
 
 - Python
@@ -141,17 +157,3 @@ python stellar_habitable_zone.py
 - Additional stellar evolution datasets
 - Expanded stellar mass ranges
 - Exoplanet habitability comparisons
-
-## Data Source and References
-
-This project utilizes stellar evolution track data distributed through coursework in AST 321: Stellar Astrophysics at Arizona State University.
-
-The underlying stellar evolution models are based on:
-
-Young, P. A., Mamajek, E. E., Arnett, D., & Liebert, J. (2001). *Observational tests and predictive stellar evolution*. The Astrophysical Journal, 556(1), 230–250. https://doi.org/10.1086/321559
-
-The habitable zone calculations, data analysis, visualizations, and Python implementation contained in this repository were developed by the author.
-
-## Acknowledgments
-
-Special thanks to Professor Patrick Young (Arizona State University) for providing the stellar evolution datasets used in AST 321 coursework and for introducing the scientific concepts that motivated this project.
