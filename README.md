@@ -25,7 +25,7 @@ This figure shows the evolution of habitable zone boundaries for stellar models 
 
 ### Combined Habitable Zone Evolution
 
-![Combined Habitable Zone Evolution](figures/hz_evolution.png)
+![Combined Habitable Zone Evolution](figures/HZ_plot.png)
 
 ## Results
 
